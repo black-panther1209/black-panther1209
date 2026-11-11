@@ -1,12 +1,10 @@
- <div align="center">
+<div align="center">
 
-# ✦ SHRISTI PANDEY
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/assets/profile-banner.svg" width="100%" alt="Shristi Pandey - AI and Full Stack Developer"/>
 
-### AI & FULL-STACK DEVELOPER
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Digital+Experiences;Exploring+AI+%26+Full-Stack+Engineering;Research+%26+Open-Source+Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Digital+Experiences;Exploring+AI+%26+Full-Stack+Engineering;Research+Enthusiast+%7C+Open-Source+Contributor;Turning+Ideas+Into+Real+Projects" alt="Developer typing animation" />
-
-<br/>
+</div>
 
 <img src="https://img.shields.io/github/followers/black-panther1209?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED" />
 <img src="https://komarev.com/ghpvc/?username=black-panther1209&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
