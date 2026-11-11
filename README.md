@@ -84,50 +84,79 @@ I enjoy working across the stack, experimenting with AI-powered systems, contrib
 ---
 
 
+
 ## 03 / FEATURED PROJECTS
 
 <div align="center">
 
-### ⚔️ GitBattle
-**ANALYZE. COMPARE. IMPROVE.**
-
-AI-powered GitHub career intelligence platform that analyzes developer footprints and translates technical activity into actionable career insights.
-
-`React` `FastAPI` `PostgreSQL` `AI`
-
-<a href="https://github.com/black-panther1209/Git-Battle">EXPLORE REPOSITORY →</a>
-
-<br/><hr/>
-
-### 🚦 TraffiSense AI
-
-<a href="https://traffi-sense-ai-neon.vercel.app">
-<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/TraffiSense-AI-preview.jpg" width="90%" alt="TraffiSense AI"/>
-</a>
-
-AI-powered traffic intelligence for congestion prediction, incident management and smarter urban mobility.
-
-`Python` `AI/ML`
-
-<a href="https://traffi-sense-ai-neon.vercel.app">LIVE DEMO →</a> •
-<a href="https://github.com/black-panther1209/TraffiSense-AI">SOURCE CODE →</a>
-
-<br/><hr/>
-
-### 🌍 DishaDharti
+<!-- DISHADHARTI -->
 
 <a href="https://pune-climate-ml-v2.vercel.app">
-<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/DishaDharti-preview.jpg" width="90%" alt="DishaDharti"/>
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/DishaDharti-preview.jpg" width="100%" alt="DishaDharti Project"/>
 </a>
 
-Environmental intelligence platform helping urban planners evaluate heat, air quality, green cover and flood risk.
+<br/>
 
-`Python` `Django` `React` `Geospatial AI`
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/DishaDharti-logo.png" width="85" alt="DishaDharti Logo"/>
+</td>
+<td align="left">
+<h2>DISHA DHARTI</h2>
+<b>A BETTER DIRECTION FOR A BETTER EARTH</b>
+<br/><br/>
+Environmental intelligence platform helping urban planners evaluate heat, air quality, green cover and flood risk through geospatial analysis.
+<br/><br/>
+<code>Python</code> <code>Django</code> <code>React</code> <code>Geospatial AI</code>
+</td>
+</tr>
+</table>
 
-<a href="https://pune-climate-ml-v2.vercel.app">LIVE DEMO →</a> •
-<a href="https://github.com/black-panther1209/DishaDharti">SOURCE CODE →</a>
+<a href="https://pune-climate-ml-v2.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-287A43?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/black-panther1209/DishaDharti">
+<img src="https://img.shields.io/badge/SOURCE_CODE-20232A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+<hr/>
+<br/>
+
+<!-- TRAFFISENSE AI -->
+
+<a href="https://traffi-sense-ai-neon.vercel.app">
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/TraffiSense-AI-preview.jpg" width="100%" alt="TraffiSense AI Project"/>
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/TraffiSense-logo.png" width="85" alt="TraffiSense AI Logo"/>
+</td>
+<td align="left">
+<h2>TRAFFISENSE AI</h2>
+<b>MAKING INDIA MOVE SMARTER</b>
+<br/><br/>
+AI-powered traffic intelligence platform focused on congestion prediction, incident management and smarter urban mobility.
+<br/><br/>
+<code>Python</code> <code>AI/ML</code>
+</td>
+</tr>
+</table>
+
+<a href="https://traffi-sense-ai-neon.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-0878CF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/black-panther1209/TraffiSense-AI">
+<img src="https://img.shields.io/badge/SOURCE_CODE-20232A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
 
 
 ---
