@@ -100,7 +100,7 @@ I enjoy working across the stack, experimenting with AI-powered systems, contrib
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/DishaDharti-logo.png" width="85" alt="DishaDharti Logo"/>
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/DishaDharti-logo.png.png" width="85" alt="DishaDharti Logo"/>
 </td>
 <td align="left">
 <h2>DISHA DHARTI</h2>
@@ -135,7 +135,7 @@ Environmental intelligence platform helping urban planners evaluate heat, air qu
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/TraffiSense-logo.png" width="85" alt="TraffiSense AI Logo"/>
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/project-images/TraffiSense-logo.png.png" width="85" alt="TraffiSense AI Logo"/>
 </td>
 <td align="left">
 <h2>TRAFFISENSE AI</h2>
