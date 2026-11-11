@@ -1,1 +1,51 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080B16"/>
+      <stop offset="55%" stop-color="#171044"/>
+      <stop offset="100%" stop-color="#071C35"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="#7045C6" opacity=".35">
+    <path d="M0 70 L300 0 M0 130 L450 0 M750 340 L1200 80"/>
+    <circle cx="1040" cy="90" r="125"/>
+    <circle cx="1040" cy="90" r="95"/>
+  </g>
+
+  <g fill="#A78BFA" opacity=".8">
+    <circle cx="75" cy="65" r="2"/>
+    <circle cx="180" cy="260" r="2"/>
+    <circle cx="580" cy="48" r="2"/>
+    <circle cx="780" cy="270" r="2"/>
+    <circle cx="1120" cy="220" r="2"/>
+    <circle cx="950" cy="35" r="2"/>
+  </g>
+
+  <g opacity=".55" fill="#101C3A">
+    <path d="M700 340V230h45v110 M760 340V185h55v155 M835 340V250h45v90 M900 340V210h55v130 M970 340V170h55v170 M1040 340V225h45v115 M1100 340V190h60v150 M1170 340V250h30v90"/>
+  </g>
+
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="75" y="115" font-size="57" font-weight="800" fill="url(#neon)">SHRISTI PANDEY</text>
+    <text x="78" y="160" font-size="24" font-weight="600" letter-spacing="4" fill="#38BDF8">AI &amp; FULL-STACK DEVELOPER</text>
+
+    <rect x="75" y="190" width="650" height="70" rx="12" fill="#080B16" stroke="#7045C6" stroke-width="1.5"/>
+    <text x="100" y="220" font-family="monospace" font-size="16" fill="#67E8F9">&gt; Building intelligent digital experiences</text>
+    <text x="100" y="245" font-family="monospace" font-size="16" fill="#C4B5FD">&gt; Exploring AI, engineering &amp; open source</text>
+
+    <text x="78" y="305" font-size="17" font-style="italic" fill="#E9D5FF">Build. Break. Learn. Improve.</text>
+  </g>
+
+  <path d="M75 325 H1125" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+</svg>
