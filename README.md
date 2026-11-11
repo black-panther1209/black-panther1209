@@ -176,6 +176,24 @@ AI-powered traffic intelligence platform focused on congestion prediction, incid
 
 <img width="65%" src="https://streak-stats.demolab.com?user=black-panther1209&theme=tokyonight&hide_border=true&background=080B16&ring=A855F7&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 
+
+
+
+<h3 align="center">🐍 CONTRIBUTION ACTIVITY</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/black-panther1209/black-panther1209/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/black-panther1209/black-panther1209/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
+</p>
+
+
 </div>
 
 ---
