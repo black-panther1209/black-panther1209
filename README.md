@@ -1,19 +1,22 @@
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/assets/profile-banner.svg" width="100%" alt="Shristi Pandey - AI and Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/asset/profile-banner.svg" width="100%" alt="Shristi Pandey - AI and Full Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Digital+Experiences;Exploring+AI+%26+Full-Stack+Engineering;Research+%26+Open-Source+Enthusiast" />
-
-</div>
-
-<img src="https://img.shields.io/github/followers/black-panther1209?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED" />
-<img src="https://komarev.com/ghpvc/?username=black-panther1209&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Digital+Experiences;Exploring+AI+%26+Full-Stack+Engineering;Research+%26+Open-Source+Enthusiast" alt="Typing animation"/>
 
 <br/>
+
+<img src="https://img.shields.io/github/followers/black-panther1209?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=black-panther1209&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+
+<br/><br/>
 
 *Build. Break. Learn. Improve.*
 
 </div>
+
+
 
 ---
 
