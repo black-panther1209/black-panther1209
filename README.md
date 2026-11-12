@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/asset/profile-banner.svg" width="100%" alt="Shristi Pandey - AI and Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/black-panther1209/black-panther1209/main/asset/profile-banner.svg" width="100%" alt="Shristi Pandey - AI Frontend Developer"/>
 
 <br/>
 
